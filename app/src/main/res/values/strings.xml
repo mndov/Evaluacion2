@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Evaluacion2</string>
+    <string name="bienvenida">Bienvenid@</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Télefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción del contacto</string>
+    <string name="datos">Siguiente</string>
+    <string name="fechaNac">Fecha de Nacimiento</string>
+    <string name="editar">Editar Datos</string>
+    <string name="confirmar">Confirmar Datos</string>
+</resources>
+
+
+
